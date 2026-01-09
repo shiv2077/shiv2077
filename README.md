@@ -1,8 +1,73 @@
-<h1 align="center">Hi 👋, I'm Shivnarayan</h1> <img align="right" alt="Coding" width="400" src="https://static.collectui.com/shots/3848914/programmer-thomas-large"> <h3 align="center"> An AI/ML Developer & Researcher. Currently interning at the Active Inference Institute, I focus on research areas spanning computer vision, agentic AI, and intelligent systems. I am an ex-Research Intern at Mahindra Research Valley and the National Instrumentation Lab at SRM. Across multiple research projects, my work targets leading AI conferences and journals, with practical applications in robotics, perception, and vision-based navigation. In addition to research, I actively mentor and organize events in student developer communities, contributing to the growth of collaborative AI innovation. </h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv2077&label=Profile%20views&color=0e75b6&style=flat" alt="shiv2077" /> </p>
-🌱 I’m currently learning machine learning frameworks, React, and advanced computer vision techniques
+<!-- Shivnarayan | GitHub Profile README (optimized for scanability + credibility) -->
 
-💬 Ask me about computer vision, agentic AI, or research in intelligent systems
+<h1 align="center">Hi 👋, I'm Shivnarayan</h1>
 
-📫 How to reach me shivnarayan4077@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/shiv4077/" target="_blank">LinkedIn</a> •
+  <a href="https://x.com/shiv4077" target="_blank">X</a> •
+  <a href="https://scholar.google.com/citations?user=mam1ZpYAAAAJ&hl=en" target="_blank">Google Scholar</a> •
+  <a href="mailto:shivnarayan4077@gmail.com" target="_blank">Email</a> •
+  <a href="https://www.instagram.com/shut.up.shiv/" target="_blank">Instagram</a>
+</p>
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/shiv4077/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /> </a> <a href="https://x.com/shiv4077" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" /> </a> <a href="https://scholar.google.com/citations?user=mam1ZpYAAAAJ&hl=en" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="google scholar" height="30" width="40" /> </a> <a href="https://www.instagram.com/shut.up.shiv/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /> </a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/320px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/320px-Tensorflow_logo.svg.png" alt="TensorFlow" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2560px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="Julia" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="AWS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </p>
+<img align="right" alt="Coding" width="360" src="https://static.collectui.com/shots/3848914/programmer-thomas-large" />
+
+<h3 align="left">AI/ML Developer & Researcher</h3>
+
+<p align="left">
+  Currently interning at the <b>Active Inference Institute</b>, working across <b>computer vision</b>, <b>agentic AI</b>, and <b>intelligent systems</b>.
+  Previously a Research Intern at <b>Mahindra Research Valley</b> and the <b>National Instrumentation Lab (SRM)</b>.
+</p>
+
+<p align="left">
+  My work targets publication-quality research with practical applications in <b>robotics</b>, <b>perception</b>, and <b>vision-based navigation</b>.
+  I also mentor and organize events in student developer communities to support collaborative AI innovation.
+</p>
+
+<p align="left">
+  <b>Current focus:</b> CV pipelines, representation learning, VLA-style robotics workflows, and engineering reliable ML systems.
+</p>
+
+<p align="left">
+  <b>Ask me about:</b> computer vision, agentic AI, robotics perception, research workflows<br/>
+  <b>Reach me:</b> <a href="mailto:shivnarayan4077@gmail.com">shivnarayan4077@gmail.com</a>
+</p>
+
+<!-- Keep this lower so it doesn't steal attention from your credibility text -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shiv2077&label=Profile%20views&color=0e75b6&style=flat" alt="shiv2077" />
+</p>
+
+<h3 align="left">Languages & Tools</h3>
+
+<p align="left">
+  <!-- Core -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <!-- ML/DL -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/320px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/320px-Tensorflow_logo.svg.png" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2560px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+</p>
+
+<p align="left">
+  <!-- Dev/Infra -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+</p>
