@@ -1,5 +1,3 @@
-<!-- Shivnarayan | GitHub Profile README (optimized for scanability + credibility) -->
-
 <h1 align="center">Hi 👋, I'm Shivnarayan</h1>
 
 <p align="center">
@@ -10,11 +8,12 @@
   <a href="https://www.instagram.com/shut.up.shiv/" target="_blank">Instagram</a>
 </p>
 
-<img align="right" alt="Coding" width="360"
-     src="https://media1.tenor.com/m/wF5RiCnfj34AAAAd/work-computer.gif" />
+<br />
 
-
-<h3 align="left">AI/ML Developer & Researcher</h3>
+<h3 align="left">
+  <img align="right" alt="Coding" width="360" src="https://media1.tenor.com/m/wF5RiCnfj34AAAAd/work-computer.gif" />
+  AI/ML Developer & Researcher
+</h3>
 
 <p align="left">
   Currently interning at the <b>Active Inference Institute</b>, working across <b>computer vision</b>, <b>agentic AI</b>, and <b>intelligent systems</b>.
@@ -35,7 +34,6 @@
   <b>Reach me:</b> <a href="mailto:shivnarayan4077@gmail.com">shivnarayan4077@gmail.com</a>
 </p>
 
-<!-- Keep this lower so it doesn't steal attention from your credibility text -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shiv2077&label=Profile%20views&color=0e75b6&style=flat" alt="shiv2077" />
 </p>
@@ -43,7 +41,6 @@
 <h3 align="left">Languages & Tools</h3>
 
 <p align="left">
-  <!-- Core -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -56,7 +53,6 @@
 </p>
 
 <p align="left">
-  <!-- ML/DL -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/320px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/320px-Tensorflow_logo.svg.png" alt="TensorFlow" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2560px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/>
@@ -64,7 +60,6 @@
 </p>
 
 <p align="left">
-  <!-- Dev/Infra -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
