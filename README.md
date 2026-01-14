@@ -8,8 +8,6 @@
   <a href="https://www.instagram.com/shut.up.shiv/" target="_blank">Instagram</a>
 </p>
 
-<br />
-
 <h3 align="left">
   <img align="right" alt="Coding" width="360" src="https://media1.tenor.com/m/wF5RiCnfj34AAAAd/work-computer.gif" />
   AI/ML Developer & Researcher
