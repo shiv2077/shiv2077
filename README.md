@@ -1,4 +1,4 @@
-<!-- Shivnarayan | GitHub Profile README (optimized for scanability + credibility) -->
+<!-- Shivnarayan | GitHub Profile README (clean layout + better spacing + stable rendering) -->
 
 <h1 align="center">Hi 👋, I'm Shivnarayan</h1>
 
@@ -6,13 +6,16 @@
   <a href="https://www.linkedin.com/in/shiv4077/" target="_blank">LinkedIn</a> •
   <a href="https://x.com/shiv4077" target="_blank">X</a> •
   <a href="https://scholar.google.com/citations?user=mam1ZpYAAAAJ&hl=en" target="_blank">Google Scholar</a> •
-  <a href="mailto:shivnarayan4077@gmail.com" target="_blank">Email</a> •
+  <a href="mailto:shivnarayan4077@gmail.com">Email</a> •
   <a href="https://www.instagram.com/shut.up.shiv/" target="_blank">Instagram</a>
 </p>
 
-<img align="right" alt="Coding" width="360"
-     src="https://media1.tenor.com/m/wF5RiCnfj34AAAAd/work-computer.gif" />
+<br/>
 
+<!-- Intro section with stable two-column alignment (more consistent than img align="right") -->
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
 <h3 align="left">AI/ML Developer & Researcher</h3>
 
@@ -40,36 +43,25 @@
   <img src="https://komarev.com/ghpvc/?username=shiv2077&label=Profile%20views&color=0e75b6&style=flat" alt="shiv2077" />
 </p>
 
+    </td>
+
+    <td width="35%" align="right" valign="top">
+      <br/>
+      <img
+        src="https://media1.tenor.com/m/wF5RiCnfj34AAAAd/work-computer.gif"
+        alt="Work computer gif"
+        width="300"
+      />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <h3 align="left">Languages & Tools</h3>
 
 <p align="left">
   <!-- Core -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
-</p>
-
-<p align="left">
-  <!-- ML/DL -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/320px-PyTorch_logo_icon.svg.png" alt="PyTorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/320px-Tensorflow_logo.svg.png" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2560px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-</p>
-
-<p align="left">
-  <!-- Dev/Infra -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</p>
+  <img src="https://raw.githubusercontent.com/devicons/
