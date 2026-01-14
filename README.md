@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/shut.up.shiv/" target="_blank">Instagram</a>
 </p>
 
-<img align="right" alt="Coding" width="360" src="https://static.collectui.com/shots/3848914/programmer-thomas-large" />
+<img align="right" alt="Coding" width="360" src="https://tenor.com/view/work-computer-gif-9810614" />
 
 <h3 align="left">AI/ML Developer & Researcher</h3>
 
