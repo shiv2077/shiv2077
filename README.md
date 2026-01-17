@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivnarayan</h1>
+<h1 align="center">Hi , I'm Shivnarayan</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shiv4077/" target="_blank">LinkedIn</a> •
